@@ -1,1 +1,13 @@
+name: FeedAndHeal
+main: Robster858\FeedAndHeal\main
+version: 0.0.1
+api: 3.0.0
 author: Robster858
+commands:
+  feed:
+    description: "Feeds you"
+    permission: "feed.cmd"
+    
+  heal:
+    description: "Heals you"
+    permission: "heal.cmd"
